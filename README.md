@@ -1,6 +1,27 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Cryptonet Technologies Private Limited
+
+Create a new React app using create-react-app.
+Call this API: https://randomuser.me/api/?page=1&results=1&seed=abc
+
+Display the result on Screen in a Card of this design (As attached): https://interview-india.s3.ap-south-1.amazonaws.com/Assignments/Display_Profile.jpg
+
+
+
+## Authors
+
+- [@Devendra Kumar](https://github.com/devendrakumar09/Cryptonet-Technologies-ReactProject-)
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Features
+- Live previews
+- Fullscreen mode
+- Cross platform
+
 
 ## Available Scripts
 
